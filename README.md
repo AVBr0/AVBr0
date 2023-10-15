@@ -66,7 +66,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AVBr0&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-
----
-
-### 🧙‍♂️: TEST :
