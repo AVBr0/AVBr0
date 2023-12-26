@@ -64,4 +64,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-dusky-gamma.vercel.app?user=AVBr0&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AVBr0&theme=transparent&hide_border=true)](https://git.io/streak-stats)
